@@ -9,12 +9,12 @@ showReadingTime: false
 
 | Ticker / Asset | Price | Day Change | % of Portfolio |
 |----------------|-------|------------|---------------|
-| TLT | $79.38 | 🔴 ▼ 0.30% | — |
-| MSFT | $523.88 | 🟢 ▲ 0.36% | — |
-| AMZN | $266.66 | 🔴 ▼ 0.62% | — |
-| GOOG | $292.52 | 🔴 ▼ 1.72% | — |
-| SNDK | $885.01 | 🔴 ▼ 7.38% | — |
-| VOO | $693.38 | 🔴 ▼ 0.71% | — |
+| TLT | $79.38 | 🔴 ▼ 0.11% | — |
+| MSFT | $517.99 | 🔴 ▼ 0.50% | — |
+| AMZN | $257.75 | 🔴 ▼ 2.49% | — |
+| GOOG | $281.26 | 🔴 ▼ 3.28% | — |
+| SNDK | $809.11 | 🔴 ▼ 6.66% | — |
+| VOO | $680.26 | 🔴 ▼ 1.25% | — |
 | Pokémon TCG Cards | — | — | — |
 
-*Last updated: 2026-11-14 07:15 UTC · Auto-refreshed by GitHub Actions*
+*Last updated: 2026-11-17 03:37 UTC · Auto-refreshed by GitHub Actions*
