@@ -13,8 +13,8 @@ showReadingTime: false
 | MSFT | $498.30 | 🔴 ▼ 2.49% | — |
 | AMZN | $257.37 | 🔴 ▼ 4.59% | — |
 | GOOG | $271.02 | 🔴 ▼ 4.02% | — |
-| SNDK | $755.16 | 🔴 ▼ 3.49% | — |
+| SNDK | $94.39 | 🔴 ▼ 87.94% | — |
 | VOO | $658.01 | 🔴 ▼ 2.41% | — |
 | Pokémon TCG Cards | — | — | — |
 
-*Last updated: 2026-11-20 02:11 UTC · Auto-refreshed by GitHub Actions*
+*Last updated: 2026-11-20 07:56 UTC · Auto-refreshed by GitHub Actions*
